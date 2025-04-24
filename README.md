@@ -1,2 +1,3 @@
 # Coffee-sales-Dashboard-Excel-project
-In this project, I developed a visually engaging and user-friendly Excel dashboard that tracks the sales of four coffee types across multiple countries. The dashboard enables users to filter and explore the data dynamically using built-in interactive tools.
+The purpose of this project was to design an interactive Excel dashboard that visualizes the sales performance of four types of coffee across different countries over time. The dashboard aimed to provide stakeholders with a clear, dynamic overview of sales trends and geographical performance. The completed dashboard provided a powerful yet simple tool for visualizing coffee sales data. Users could easily explore how different types of coffee performed in various countries over time, identify sales patterns, and make data-driven decisions. This project demonstrated my ability to turn raw data into actionable insights using Excel’s built-in BI capabilities.
+
