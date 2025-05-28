@@ -27,7 +27,7 @@ This Excel dashboard empowers decision-makers to explore and interpret data effo
 
 ---
 
-## 📸 Project Screenshot
+## 📸 Project Dashboard Screenshot
 
 ![Coffee Sales Dashboard](Screenshot%202025-05-23%20030328.png)
 
